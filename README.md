@@ -13,15 +13,15 @@ For each test case, output a single line containing the number of milliseconds u
 
 ### Example
 ### Input:
-3
-3
-2 3 5
-4
-1 8 7 11
-4
-4 4 5 6
+3 <br />
+3 <br />
+2 3 5 <br />
+4 <br />
+1 8 7 11 <br />
+4 <br />
+4 4 5 6 <br />
 
 ### Output:
-6
-7
-4
+6 <br />
+7 <br />
+4 <br />
